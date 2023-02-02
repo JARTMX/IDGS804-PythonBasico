@@ -4,3 +4,5 @@ def tabla(x):
         print(f"{x} X {i} = {x * i}")
 x = int(input("Ingresa un numero: "))
 tabla(x)
+
+------
